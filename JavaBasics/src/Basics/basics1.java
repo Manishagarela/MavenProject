@@ -7,6 +7,7 @@ public class basics1 {
 		for (int i=1;i<=n;i++)
 		{
 			fact=fact*i;
+			System.out.println("JI");
 		}
 		
 		
