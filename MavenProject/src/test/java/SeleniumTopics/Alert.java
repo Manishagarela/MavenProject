@@ -19,6 +19,7 @@ public class Alert {
 	 System.out.println(alerttext);
 	 alert.accept();
 	 System.out.println("Switch success");
+	 System.out.println("Switch 2 success");
   }
 	
   
