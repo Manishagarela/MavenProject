@@ -6,6 +6,12 @@
       <class name="DemoProject.PracticeMaven"/>
         <class name="DemoProject.TestFacebook"/>
         <class name="DemoProject.FacebookTest"/>
+        <class name="DemoProject.PracticeMaven"/>
+
+<class name="SeleniumTopics.Alert"/>
+<class name="SeleniumTopics.AutoIT"/>
+<class name="SeleniumTopics.IFrame"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
