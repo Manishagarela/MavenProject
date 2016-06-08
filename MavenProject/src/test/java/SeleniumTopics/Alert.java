@@ -18,7 +18,7 @@ public class Alert {
 	  String alerttext =  alert.getText();
 	 System.out.println(alerttext);
 	 alert.accept();
-	 System.out.println("Switch success");
+	 System.out.println("Switch is success");
 	 System.out.println("Switch 2 success");
   }
 	
